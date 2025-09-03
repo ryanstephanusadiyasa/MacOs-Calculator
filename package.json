@@ -1,0 +1,26 @@
+{
+  "name": "macos-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tailwindcss -i ./src/css/input.css -o ./src/css/output.css --watch",
+    "build": "tailwindcss -i ./src/css/input.css -o ./src/css/output.css --minify",
+    "tsc": "tsc",
+    "tsc:watch": "tsc --watch",
+    "build:all": "npm run tsc && npm run build",
+    "dev": "npm run tsc:watch & npm run watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.12",
+    "tailwindcss": "^4.1.12"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "typescript": "^5.9.2"
+  }
+}
