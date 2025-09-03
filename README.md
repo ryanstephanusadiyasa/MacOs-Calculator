@@ -2,6 +2,8 @@
 
 A pixel-perfect recreation of the macOS Calculator app built with modern web technologies. Features authentic macOS design elements, smooth animations, and full keyboard support.
 
+[macOS Calculator Demo](./src/assets/calc_demo.gif)
+
 ## ✨ Features
 
 - **🎨 Authentic macOS Design**: Complete with traffic light buttons and system fonts
