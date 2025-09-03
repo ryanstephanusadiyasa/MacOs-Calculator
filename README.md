@@ -16,7 +16,7 @@ A pixel-perfect recreation of the macOS Calculator app built with modern web tec
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://ryanstephanusadiyasa.github.io/MacOs-Calculator) _(Replace with your actual demo URL)_
+[View Live Demo](https://ryanstephanusadiyasa.github.io/MacOs-Calculator)
 
 ## 🛠️ Technologies Used
 
@@ -165,7 +165,7 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - [@illustriousreed](https://x.com/illustriousreed) - your.email@example.com
+**Your Name** - [@illustriousreed](https://x.com/illustriousreed) - ryan.stephanus@gmail.com
 
 **Project Link**: [https://github.com/ryanstephanusadiyasa/MacOs-Calculator](https://github.com/ryanstephanusadiyasa/MacOs-Calculator)
 
