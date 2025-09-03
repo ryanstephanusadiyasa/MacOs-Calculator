@@ -2,7 +2,7 @@
 
 A pixel-perfect recreation of the macOS Calculator app built with modern web technologies. Features authentic macOS design elements, smooth animations, and full keyboard support.
 
-![macOS Calculator Demo](https://github.com/ryanstephanusadiyasa/MacOs-Calculator)
+[macOS Calculator Demo](https://github.com/ryanstephanusadiyasa/MacOs-Calculator)
 
 ## ✨ Features
 
